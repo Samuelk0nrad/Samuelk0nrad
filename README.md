@@ -1,4 +1,4 @@
-## Hi there, I'm Samuel 👋
+## Hi there 👋
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Samuelk0nrad&show_icons=true&theme=radical)](https://github.com/Samuelk0nrad)
 
